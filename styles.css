@@ -115,6 +115,10 @@ grid-area: item5;
     flex-direction: column;
 
 }
+.grid__item{
+margin: 1rem;
+
+}
 }
 @media only screen and (max-width:650px){
 .container{
